@@ -1,6 +1,6 @@
 # Files-Renamer
 
-<h4>V2.0 IS OUT in my other repository! called Directory-RNT<h4>
+<h4>V3.0 IS OUT in my other repository! called Directory-RNT<h4>
 
 
 This mini python script will rename the content of any folder on your computer. Simply copy and paste the directory of any folder you want into the RT Directory.txt, and run the script.
